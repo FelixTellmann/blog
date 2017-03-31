@@ -11,7 +11,7 @@ and write them down. Most of the time my mind goes on its own journey or I get l
 Writing is a sanity check and I welcome the challenge it presents. It's one thing to have a thought, but it's another 
 to be able to craft that into something that's understandable to others.
 
-### Challenge Accepted
+## Challenge Accepted
 It's really an experiment of self-development. If I do something enough, presumable I'll get better at it. Coupled with 
 feedback from others, it's a win-win situation every time I sit down to write. That said, I don't want to limit myself 
 to just writing. I envision this blog as a showcase for:
