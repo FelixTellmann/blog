@@ -1,6 +1,6 @@
 # Getting Started with my Blog
 
-This is my first blog post that I'm putting togeter to, well, show what a blog post would look & feel like on my website.
+This is my first blog post that I'm putting together to, well, show what a blog post would look & feel like on my website.
 I'm not 100% sure what it will entail just yet, so I'm going to let it write itself. Let's begin, shall we?
 
 I've been virtually silent, unless you count all those facebook shares, which I don't. I want to share my thoughts, learnings,
