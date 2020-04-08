@@ -8,42 +8,40 @@
 
 Front-end Development workflow &amp; best practices blog
 
-#Topics for the Blog
+Topics for the Blog
 
-## Javascript
+# Javascript
 
-### JS Basics
+## Syntax
 
-#### Syntax
+### Operators
+### Variables
+### Comments
+### Comparisons
+### Conditions
+### Loops
 
-##### Operators
-##### Variables
-##### Comments
-##### Comparisons
-##### Conditions
-##### Loops
+## Data Types
 
-#### Data Types
+### Numbers
+### Strings
+### RegEx - Strings
+### Arrays - Stricly Speaking an Object
+### Objects
+### Functions
+### Booleans
+### Symbol
+### Null & Undefined
+### Special objects - Array, Object, String, Number, Date, Math,
 
-##### Numbers
-##### Strings
-##### RegEx - Strings
-##### Arrays - Stricly Speaking an Object
-##### Objects
-##### Functions
-##### Booleans
-##### Symbol
-##### Null & Undefined
-##### Special objects - Array, Object, String, Number, Date, Math,
+## The more Tricky parts
 
-#### The more Tricky parts
-
-##### Scope
-##### Hoisting
-##### The this keyword
-##### Events
-##### Error Handling
-##### use strict
-##### default parameters
+### Scope
+### Hoisting
+### The this keyword
+### Events
+### Error Handling
+### use strict
+### default parameters
 
 
