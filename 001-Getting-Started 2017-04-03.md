@@ -25,4 +25,4 @@ to just writing. I envision this blog as a showcase for:
 * Working in the Cloud from anywhere
 * And more?
 
-So based on that, keep a watchful eye on everything that I’ll be sharing. And try to enjoy!
+So based on that, keep a watchful eye on everything that I’ll be sharing. And sitback and enjoy!
