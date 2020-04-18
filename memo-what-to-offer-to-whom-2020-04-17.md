@@ -184,3 +184,21 @@ A Plan should have a name i.e. easy installation plan or our quality guarantee
     - I'm always looking for other coders & designers that can be helpful for work that comes in.
     - How can I help you?
 
+## Challenge to take action - be super obvious - otherwise people dont get it
+
+Direct Call to actions - vs - Transitional Call to Action -
+Direct call to actions should be everywhere - one same design - spread & repeated into all marketing material
+
+1. Companies
+  - Get in touch - call now - button - Schedule Appointment
+  - Follow me on Social Media
+  - PDF - how to get started with your website planning - as a business owner you usually don't have time - so how to do it anyways?
+  - Sign up for newsletter
+  - Business Cards - Networking - Direct Sales
+  
+2. Businesses Hiring
+  - Get in Touch - button
+  - Available references - links to social accounts - github - view portfolio
+  - CV available for download
+  - Blog posts - small business challenges - teamwork related
+

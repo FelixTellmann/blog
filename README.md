@@ -89,3 +89,5 @@ Topics for the Blog
 
 # Time Management - Planning - Goal Setting - Prioritizing
 
+# Teamwork & coding with peers - handling office work
+
