@@ -40,9 +40,9 @@ Collaborating in a tech start-up or leading tech company to develop whats on the
 
 Topics for the Blog
 
-# Javascript
+# Coding
 
-## Syntax
+## Javascript
 
 ### Operators
 ### Variables
@@ -74,4 +74,18 @@ Topics for the Blog
 ### use strict
 ### default parameters
 
+# Website Strategy
+
+## Project Management
+## Marketing
+## Design
+## Analytics
+## Data Storage & Data Input
+## Page Management
+
+# E-Commerce - Selling online
+
+## Shopify
+
+# Time Management - Planning - Goal Setting - Prioritizing
 
