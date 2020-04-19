@@ -42,8 +42,8 @@ Example Villains:
   - Deadlines & Budgets (Project contrains) - Limited Resources - Think Wix Ads
   - Complexity of Code - Just seeing code as something too hard to graps
   - similar to information overflow
-  - Bad hiring/contracting decisions - customers not knowing that they
-   actually need marketing advice & strategy before they should look at their
+  - Bad hiring/contracting decisions 
+  - customers not knowing that they actually need marketing advice & strategy before they should look at their
     website.
   - Bad hiring decision (for potential employers)(counter with contractual
    employment options) 
@@ -202,3 +202,32 @@ Direct call to actions should be everywhere - one same design - spread & repeate
   - CV available for download
   - Blog posts - small business challenges - teamwork related
 
+3. Other Coders
+  - Subscribe to my page - (tool for it?)
+  - Leave feedback - comment on tutorials
+  - Connect on social media - github - etc.
+  - Tutorials free  content all the time.
+
+
+## Help them avoid failure
+
+Use in moderation - Fear appeal - 4 steps
+
+1. Companies
+  - People will think you don't even exist if you don't have a website
+  - We'll guide you through all hidden costs
+  - Don't miss out on being online
+  - Don't get stuck with another agency that doesn't listen to you
+  - Don't let the competition pass you
+
+2. Business Hiring
+  - Don't get trapped with the wrong person - a bad fit
+  - Nothing costs more than having to rehire in 6 months time
+  - Having a bad apple in your team can ruin an entire business
+  
+3. Other Coders
+  - Don't waste another day?
+  - Getting stuck ?
+  - You got to have a foundation to get a job
+
+## 
