@@ -285,6 +285,10 @@ Testimonials not of how the work with me was, but how THEY have transformed to h
 
 ## Website
 
+Design Scheme:
+- What do I stand for? Professionalism - attention to detail - focussed drive
+- Straight fine lines - clear fonts - lots of well used negative space
+
 Colors:
 - Something bright & dark grey (consider themes for darkmode/lightmode etc)
 
