@@ -211,7 +211,7 @@ Direct call to actions should be everywhere - one same design - spread & repeate
 
 ## Help them avoid failure
 
-Use in moderation - Fear appeal - 4 steps
+Use in moderation - Fear appeal - 4 steps conversion process
 
 1. Companies
   - People will think you don't even exist if you don't have a website
@@ -230,4 +230,131 @@ Use in moderation - Fear appeal - 4 steps
   - Getting stuck ?
   - You got to have a foundation to get a job
 
-## 
+## That ends in success
+
+Be specific - What do they have before vs after
+  - Feeling
+  - having
+  - status
+  - routines
+
+1. Companies
+  - YOU will start selling more online!
+  - Sell in the # that you ought to be selling
+  - A business relationship partner you can trust and endure in long term
+  - Only a few can be partnered
+  - Beautiful website that sells - easy to use - customized to their style
+  - Saved time to focus on other things
+
+2. Business Hiring
+  - Impactful employee - Contributing to bottom line & team work - Motivates others
+  - Leadership & management - can work alone & in team
+  - only one can hire me (a bit over the top maybe?)
+  - together, We get YOUR projects done in time!
+  - Saved time
+
+3. Other Coders
+  - Content - training material - access
+  - Feedback to your Feedback & comments (being heard)
+  - Mentorship?
+  - Get that Job - you can do it
+  - Become a full fledged developer and make it a career (knowing that # coders double every 5 years?)
+  - saved time
+  - boilerplates for specific tasks
+  
+## Transformation
+
+Creating aspirational identities - Describe how a person who has done the transformation looks like
+from - to 
+A hero needs somebody else to step into the story to tell them they're different, they're better now.
+Testimonials not of how the work with me was, but how THEY have transformed to happyier better etc.
+
+1. Companies - specifically the project owner
+  - Successful business owner - 
+  - reliefed, stress free, looking forward to tackle new challenges like fulfillment etc.
+  - free time to do other things, lean back etc.
+  
+2. Business Hiring - Person who needs the position filled
+  - Reliefed, stress free, happy, free time to focus on their project
+  - Motivated
+
+3. Other coders
+  - Motivated - energized to continue coding etc
+  - relieved - feeling of achievement - success
+  - Experts on X
+
+## Website
+
+Colors:
+- Something bright & dark grey (consider themes for darkmode/lightmode etc)
+
+Font:
+- Helvetica Neue - light & bold?
+- Blog font for easy reading?
+
+Logo:
+- Felix tellmann (just name or slightly turned into a logo)
+
+Nav:
+- Articles
+- Portfolio
+- About
+- CV
+- Contact
+
+Social Icons:
+- Facebook 
+- Github
+
+
+Border - possible to click on pc - to tell a litlte story about borders (nerd thing)
+
+Hero Section:
+
+I'm Felix. (duh)
+  - Looking for a guide? (maybe)
+  - I build beautiful websites (that sell)
+  - I teach & write about code
+  - I help people succeed online
+  Find out More button - Scroll down icon/swipe down icon (mobile) to get people to look up more
+
+Background image ? faded ? changing? content topic? or skill showing off authority (like a WebGL animation thing)
+
+Story Starting Section - choose your path.
+  - Let me guide you through my page. What are you looking for?
+  - You are x and have y problems and need a guide ? Maybe I can help?
+  - How to get started / who are you question - to decide where to click next
+  - 3 blocks - 3 buttons for specialization pages - i.e. 
+    - About Page - CV - Skills - Portfolio - Passions dedications -> (typography, running/hiking)
+    - blog master page - little description of why i blog and what I blog about (like process section), 
+    - Leads Page - I Take on limited projects to be able to focus (scarcity) - freelance process/service steps
+
+
+Portfolio Preview Section:
+- Top 3 portfolio items - fullscreen modal with portfolio detail on click - link to project / its code (if public) - project Objective - challenges - solutions
+- See More
+
+Blog Preview Section:
+- Latest 3 posts + excerpt - maybe little image (if applicable)?
+- See More
+
+About preview Section:
+- Little intro block - describing what ELSE i do
+- Who I am - Passions - Start-ups - typography(design)? - Hiking? - Coding - cooking - hosting - social etc.
+- Find out more
+
+Skills preview Section: (good for hiring manager, looking for a person with specific skills)
+- Icons of Coding Skills - tooltip/hover - funny explanation
+- Specializations - focus - ReactJS - Front-end - UX - testing - Typescript - JAM stack
+
+Work done for - icon banner section
+- KidsLiving
+- Pichulik
+- Turning Point
+- Matsidiso etc.
+- Links only to portfolio items - not to 
+
+Footer:
+  - Repeat Nav
+  - Repeat Social Icons
+  - Repeat Contact Me
