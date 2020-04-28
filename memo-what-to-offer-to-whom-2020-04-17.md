@@ -208,7 +208,6 @@ Direct call to actions should be everywhere - one same design - spread & repeate
   - Connect on social media - github - etc.
   - Tutorials free  content all the time.
 
-
 ## Help them avoid failure
 
 Use in moderation - Fear appeal - 4 steps conversion process
