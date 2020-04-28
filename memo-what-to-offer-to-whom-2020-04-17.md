@@ -285,6 +285,43 @@ Testimonials not of how the work with me was, but how THEY have transformed to h
 
 ## Website
 
+
+// TODO what don't i know yet ?
+
+Font: 
+       
+    Font-family: Inter, ....    -apple default font- etc. as backup - see zeit/shopify
+    Font-Weights: 300 - 700
+    Font-sizes:
+        nav: 14px
+        h1: 72 - 56px - Section Headings - Home Page
+            64 - 40px - Section Headings - other pages (questionable)
+        h2: 36px - Headings for blog - subheading for hero as light
+        h3: 24px -  subheading for h1 - weight 300 - home page
+        p: 16px - home page - Blog - Line Height 1.6
+        h3: 24px - 700 - Heading for cards
+        p: 14px for Cards
+        
+        Never use Bold & Bold or Light & Light when pairing headings & content
+        
+        72px - 56px - 40px - 36px - 24px - 16px - 14px
+        
+    
+Colors:
+
+    Background:
+    Accents:
+    Text-highlighting: 
+    
+Buttons:
+    
+    Style:
+    Effects:
+    
+   
+
+
+
 Colors:
 - Something bright & dark grey (consider themes for darkmode/lightmode etc)
 
@@ -347,7 +384,7 @@ Skills preview Section: (good for hiring manager, looking for a person with spec
 - Icons of Coding Skills - tooltip/hover - funny explanation
 - Specializations - focus - ReactJS - Front-end - UX - testing - Typescript - JAM stack
 
-Work done for - icon banner section
+Work done for - brand banner section
 - KidsLiving
 - Pichulik
 - Turning Point
