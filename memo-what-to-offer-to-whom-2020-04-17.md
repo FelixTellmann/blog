@@ -285,6 +285,10 @@ Testimonials not of how the work with me was, but how THEY have transformed to h
 
 ## Website
 
+Design Scheme:
+- What do I stand for? Professionalism - attention to detail - focussed drive
+- Straight fine lines - clear fonts - lots of well used negative space
+
 
 // TODO what don't i know yet ?
 
@@ -384,7 +388,7 @@ Skills preview Section: (good for hiring manager, looking for a person with spec
 - Icons of Coding Skills - tooltip/hover - funny explanation
 - Specializations - focus - ReactJS - Front-end - UX - testing - Typescript - JAM stack
 
-Work done for - brand banner section
+Work done for - icon banner section
 - KidsLiving
 - Pichulik
 - Turning Point
