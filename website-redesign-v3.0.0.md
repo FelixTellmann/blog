@@ -33,6 +33,7 @@ Content:
     http://www.playlogix.com/
     StoryBrand script
     https://nicovanzyl.com/
+    https://www.olivier-guilleux.com/
    
     
 Colors:
@@ -97,6 +98,8 @@ Hero Section:
 Logo Banner - as breaking Section?
     
     Faded background - color on hover - very lightly - slow auto scroll animation - cant be clicked or moved, it just is!
+    
+    https://together.agency/
     
     Logos of companies i've worked with:
     Kids Living
