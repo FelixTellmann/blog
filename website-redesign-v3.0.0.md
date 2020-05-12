@@ -176,9 +176,18 @@ Blog - Overview Page
 Blog - Archive View
     
     -Just Heading - date - group by year?
+    
 Services
 
     What I offer to whom?
+    - ecommerce websites - shopify
+    - web apps
+    - JAMstack websites - design to code
+    - 
+    
+    Packages / Pricing?
+    
+    CTA - starter questionnaire - test if you are ready for a website quiz ? & gather information
     
     
 Blog Detail Page -
@@ -196,13 +205,35 @@ Blog Detail Page -
         Blog Title generator: https://s3-us-west-2.amazonaws.com/assets.davidwells.io/demos/kill-writers-block/index.html
         https://javascript.info/regexp-methods
         
-About preview Section:
+About Section:
 
     - Little intro block - describing what ELSE i do
     - Who I am - Passions - Start-ups - typography(design)? - Hiking? - Coding - cooking - hosting - social etc.
     - Find out more
+    https://bchiang7.github.io/
     https://nicovanzyl.com/about/ - Content style
     https://samgoddard.co.uk/current
+    
+    Content creation:
+        - summary description brief - needs to be catchy, easy to ready, tell a story // todo last - needs other content
+        - Title: Front-end software engineer - freelancing & looking for professional engagement / Partnerships
+        - Objective statement
+        - lists:
+            - hobbies - passions
+            - education
+            - projects done
+            - work experience
+            - awards professional development
+            - skills - icons?
+        - Images:
+            - Me - highlighting values
+            - Me - hiking
+            - Me - alpha / Luna
+            - Me - Family/Friends
+            - Me - Liz
+            - Entrepreneuer - Start-ups
+            - Things i Like?
+        - Link to CV / Resume       
 
 FAQ on Sales Funnel page
     
