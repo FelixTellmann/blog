@@ -39,3 +39,56 @@ What follows is compiled insights fro Infinite Learners. Enjoy. You can [Watch t
 
 # Productivity
 
+- Your brain is not a storage device. Put ideas and tasks in a central source of truth, for example a checklist or Trello baord. Modern human knowledge is too huge to store, organize, and apply all within our brains.
+- Discard things that have served their purpose. Say **No** more often.
+- Don't multitask. Multitasking is not Productivity.
+- Your willpower is limited.
+- Be proactive, take control.
+- Begin with the end in mind: have a Mission, Vision, and specific Goals.
+- Put first things first. Urgent != Important; do Urgent & Important things first, then Important Non-urgent things. Avoid any Unimportant things.
+- Sharpen the Saw and Recharge. Make sure to balance personal with professional life.
+- Make room and Define your working space. Define your work time vs free time. Define your online time vs offline time. Boundaries help you do deep work.
+- Do premortems envisioning how your project might fail. Talk to your future self, and use the "uh-oh" effect to spurt to a strong finish.
+- Use short Checklists to prevent avoidable mistakes, and schedule communication for teams.
+
+## Books:
+
+>[Getting things done - by David Allen](Link)
+>[The Life Changing Magic of Tidying Up - by Marie Kondo](link)
+>[7 Habits of Highly Effective People - by Stephen Covey](link)
+>[the 8th Habit - by Stephen Covey](Link)
+>[The one Thing - by Jay Papasan](link)
+>[Deep Work - by Cal Newport](link)
+>[When - by Dan Pink](link)
+>[Checklist Manifesto - by Atul Gawande](link)
+
+# Interpersonal Skills
+
+>Smile!
+>Be genuine and sincere
+>Be interested in others and use their names. Make them look good. When they suggest ideas, do a "yes and..." instead of rejecting ti offhand.
+>Admit mistakes immediately. Bebuoyant to rejection
+>Think win-win, Try for positive sum.
+>Seek first to understand, then to be understood. Emphathize, and Listen. Ask, Define, and Frame the problem.
+>Synergize; combine the strength of people through positive teamwork.
+>**Difficult Conversations**: Be mindful of what you want and what you want to avoid. Make them feel safe. Focus on respect and shared goals. Contrast criticism with praise. Show you case. Paraphrase to ensure understanding. Get the facts straight. Make sure you have a resolution by reaching consensus or someone to decide.
+>**Common Commuinication mistakes**: Overemphasizing content, being inauthentic, being unprepared, being not self-aware, repeating the status quo.
+>**Communication tactics**: Eye contact, Posture, Use Gestures, Vary you Voice, Pause, Have a point of view.
+>**Pitching people**: Shorten your pitch. Involve them in the process. Ask a question. Rhyme. Invoke purpose.
+>**Practice the 5 aspects of Emotional Intelligence**: Self-awareness, Self-control, Motivation, Empathy, and Influence.
+
+## Books:
+
+>[How to Win Friends and Influence People - by Dale Carnegie](link)
+>[7 Habits of Highly Effective People - by Stephen Covey](link)
+>[Crucial Conversations - by Al Switzler et al](link)
+>[Communicate to Influence - by Ben Decker](link)
+>[To Sell is Human - by Dan Pink](link)
+>[Search Inside Yourself - by Chade Meng Tan](link)
+
+# Sales & Psychology
+
+>We justify our actions, not vice versa.
+>40% of actions are unconscious habit. Habit stick because you crave reward. Redirct your cravings, don't resist them.
+>Habits are formed through a Trigger -> Action -> Reward -> Investement cycle. Spot companies doing this to you, and use it responsibly.
+>
