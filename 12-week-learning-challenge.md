@@ -4,21 +4,20 @@ My first two books are the 12 week Year and Atomic Habit, and i intend to start 
 
 The books combine really cool stuff on becoming and believing in a better self. One of my first challenges will be the Habit Scorecard. Its basically getting the day to day habits up into our awareness. The Scorecard is simply a tool, where each and every tiny habit & habit trigger is recorded in a list and then simply rated as good neutral or negative. The rating is obviously bias towards who you for yourself want to be.
 
-I will start my storecard today at 1pm for at least 45 minutes. - not done - but had long chat about it with liz :-) also done more time on the chores today.
-I will start a chore with audiobooks at 11am for at least 1 hour - done
-I will eat a healthy afternoon lunch/dinner at 4pm, with lots of veg. - done
-I will run with Alpha at 2pm for 30 minutes in the forest. - done
-I will sort out the VAT & Financial Statements for the Burger Exchange today at 6pm and send it through to PKF once finished. - done
+Here is what the scorecard looks like. You can see I drink a lot of coffee right?
 
-I will invoice KidsLiving for my work completed tomorrow morning at 9am - first thing when going on the computer! - done
-Today, I will go to George with Liz and Check out the iWatch series 5, considering buying it.
+Getting that awareness up is great. The list isn't really a finished product but more continous work in progress, and updating it regularly seems like a good habit in itself. Somewhat like the point-n-shout method explained int he book.
+
+Another important part covered in the book is the Habit loop and how to use it to your advantage. Its simple stuff, but if done repeatedly bears great effects. A simple but small technique is taking the scorecard and stacking desired habits on top of that, to always have a cue ready for the right habits to perform.
+
+
+
 Today I will start on the Habit tracking scorecard, right after I'm done with the invoices for Kids Living
-Today, I will brush my teeth in the evening, when getting up to go to the bathroom the last time before sleeping!
-Today, I will cook at 5pm, something healthy from ingredients that we have in stock.
-Today, I will have a chat about Habits in the Car while driving to George. Starting with:
-"So, I'm reading this interesting book about Habits, and its really cool..."
-Today, I will Iron the Laundry in my office while watching a coding tutorial on Youtube at 12:30 after the scorecard is done.
 
+
+Today, I will Iron the Laundry in my office while watching a coding tutorial on Youtube at 16:00.
+Today, I will go running at 2pm in the forrest with Alpha.
+Today, I will read 2 chapters in bed before sleeping, and I will brush my teeth afterwards.
 
 
 
