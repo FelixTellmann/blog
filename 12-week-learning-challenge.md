@@ -27,6 +27,8 @@ Today, I will read 2 chapters in bed before sleeping, and I will brush my teeth 
 Today, I will buy Apples & look at potential other snacks to keep around in the house & my office. - When?
 
 
+Tomorrow morning at 11am I will re-organize my office space & setup in a different way :-)
+
 
 
 Weak up
