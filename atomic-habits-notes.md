@@ -47,4 +47,4 @@
 >Gradually, your habits become associated not with a single triggers, but withthe entire context surrounding the behaviour. The context becomes the cue.
 >It's easier to build new habits in a new environment because you are not fighting against old cues.
 
-# Chapter 7 - The secret to Self-Control.
+# Chapter 7 - The secret to Self-Control. p 90
