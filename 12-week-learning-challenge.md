@@ -87,4 +87,7 @@ whats missing:
 - maintenance
 - packing things away
 - car cleaning - maintenance
+- Brushing teeth
+- Exercise
 - 
+
