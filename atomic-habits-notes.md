@@ -47,4 +47,95 @@
 >Gradually, your habits become associated not with a single triggers, but withthe entire context surrounding the behaviour. The context becomes the cue.
 >It's easier to build new habits in a new environment because you are not fighting against old cues.
 
-# Chapter 7 - The secret to Self-Control. p 90
+# Chapter 7 - The secret to Self-Control. p 90 
+
+> The inversion fo the 1st Law of Behavior Change is make it invisible.
+>Once a habit is formed, it is unlikely to be forgotton.
+>People with high self-control tend to spend less time in tempting situations. It's easier to avoid temptation than resist it.
+>One of the most practical ways to eliminate a bad habit is to reduce exposure to the cue that causes it.
+>Self-Control is a short term strategy, not a longer-term one.
+
+# Chapter 8 - How to make a habit irresistible
+
+> The 2nd Law of Behavior Change is make it attractive.
+>The more attractive an opportunity is, the more likely it is to be come habit-forming.
+>Habits are a dopamine-driven feedback loop. When dopamine rises, so does our motivation to act.
+>It is the anticipation of a reward, not the fulfillment of it, that gets us to take action. The greater the anticipation, the greater the dopamine spike.
+>Temptation bundling is one way to make your habits more attractive. The strategy is to pair an action you want to do with an action you need to do.
+
+# Chapter 9 - The role of Family and Friends in Shaping your habits.
+
+>The culture we live in determines which behaviours are attractive to us.
+>We tend to adopt habits that are praised and approved of by our culture because we have a strong desire to fit in and belong to the tribe.
+>We tend to imitate the habits of three social groups: The close,(family and friends), the many (the tribe), and the powerful (those with status and prestige).
+>One of the most effective things you can do to build better habits is to join a culture where (1) your desired behaviour is the normal behaviour and (2) you already have something in commin with the group.
+>The normal behavior of the tribe often overpowers the desired behavior of the individual. Most days, we'd rather be wrong with the crowd than be right by oursleves
+>If a behavior can get us approval, respect, and praise, we find it attractive.
+
+# Chapter 10 -How to find and fix the causes of your bad habits.
+
+>The inversion fo the 2nd Law of Behavior Change is make it unattractive.
+>Every behavior has a surface level craving and a deeper underlying motive.
+>Your habits a re modern-day solutions to ancient desires.
+>The cause of your habits is actually the prediction that orecedes them. The prediction leads to a feeling.
+>Highlight the benefits of avoiding a bad habit to make it seem unattractive
+>Habits are attractive when we associate them with positive feelings and unattractive when we associate them with negative feelings. create a motivation ritual by doing something you enjoy immediately before a difficult habit.
+
+# Chapter 11 - Walk Slowly, but never backward
+
+> The 3rd Law of Behavior Change is make it easy.
+>The most effective form of learning is practice, not planning.
+>Focus on taking action, not being in motion.
+>Habit formation is the process by which a behavior becomes progressively more automatic through repetition.
+>The amount of time you have been performing a habit is not as important as the number of times you have performed it.
+
+# Chapter 12 - The Law of least effort.
+
+> Human behavior follows the Law of Least Effort. We will naturally gravitate toward the option that rtequires the least amount of work.
+>Create an environment where doing the right thing is a aseasy as possible.
+>Reduce the friction associated with good behaviors. When friction is low, habits are easy.
+>Increase the friction associated with bad behaviors. When friction is high, habits are difficult.
+>Prime your environment to make future actions easier.
+
+# Chapter 13 - How to stop Procrastinating by using the Two-Minute Rule
+
+> Habits can be completed in a few seconds but continue to impact your behavior for minutes or hours afterward.
+>Many habits occur at decisive moments - choices that are like a fork in the road - and either send you in the direction of productive day or an unproductive one.
+> The Two-Minute Rule states, "When you start a new habit, it should take less than 2 minutes to do."
+>The more you ritualize the beginning of a process, the more likely it becomes that you can slip into the state of deep focus that is required to do great things.
+>Standardize before you optimize. You can't improve a habit that doesn't exist.
+
+# Chapter 14 - How to m,ake good habits inevitable and bad habits impossible.
+
+> The inversion fo the 3rd Law of Behavior Change is make it difficult.
+>A commitment device is a choice you make in the present that locks in better behavior in the future.
+>The ultimate way to lock in future behavior is to automate your habits.
+>Onetime choices - Like buying a better mattress or enrolling in an automatic savings plan - are single actions that automate your future habits and deliver increasing returns over time.
+>Using technology to automate your habits is the most reliable and effective way to guarantee the right behavior
+
+# Chapter 15 - The cardinal Rule of Behavior Change
+
+> The 4th Law of Behavior Change is make it satisfying
+>We are more likely to repeat a behavior when the experience is satisfying
+>The human brain evolved to prioritize immedate rewards over delayed rewards.
+>The cardinal rule of Behavior Change: What is immediately rewarded is repeated. What is immediately punished is avoided.
+>To get a habit to stick you need to feel immediately successful - even if it's in a small way.
+>The first three laws of behavior change - make it obvious, make it attractive, and make it easy - increase the odds that a behavior will be performed the first time. The fourgh law of behavior change - make it satisfying - increases the odds that a behavior will be repeated next time.
+
+# Chapter 16 - How to stick with good Habits every day.
+
+> One of the most satisfying feelings is the feeling of making progress.
+>A habit tracker is a simple way to measure whether you did a habit - like marking an X on a calendar.
+>Habit trackers and other visual forms of measurement can make your habits satisfying by providing clear evidence of your progress.
+>Don't break the chain. Try to keep you habit streak alive.
+>Never miss twice. If you miss one day, tray to get back on track as quickly as possible.
+>Just becaus eyou can measure something doesn't mean it's the most important thing.
+
+# Chapter 17 - How can accountability partner can change everything
+
+>The inversion fht eh 4th Law of Behavior Change is make it unsatisfying.
+>We are less likely to repeat a bad habit if it is painful or unsatisfying.
+>An accountability Partner can create an immediate cost to inaction. We care deeply about what others think of us, and we do not want others to have a lesser opinion of us.
+>A habit contract can be used to add a social cost to any behavior.It make the cost of violating your promises public and painful.
+>Knowing that someone else is watching you cna be a powerful motivator.
+>
